@@ -4,5 +4,5 @@ title = "钱国正博客"
 theme = "hyde"
 [params]
     themeColor = "theme-base-08"
-    layoutReverse = true
+    layoutReverse = false
     disqusShortname = "spf13"

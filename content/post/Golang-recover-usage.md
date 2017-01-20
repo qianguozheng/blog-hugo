@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2017-01-16T15:56:55+08:00"
 menu = "main"
-title = "golang recover usage"
+title = "Golang recover usage"
 
 +++
 

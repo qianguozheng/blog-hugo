@@ -8,7 +8,7 @@ date = "2017-02-19T21:03:06+08:00"
 
 +++
 
-# Golang Session 使用遇到的问题
+# Golang Session using problem
 
 以前从事嵌入式工作，没有做过多用户的处理，比如web服务器上后台管理人员与普通用户的区别。
 

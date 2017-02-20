@@ -1,0 +1,10 @@
++++
+Categories = ["Development", "GoLang"]
+Description = ""
+Tags = ["Development", "golang"]
+date = "2017-02-20T11:23:14+08:00"
+menu = "main"
+title = "hugo deploy as submodule on github"
+
++++
+

@@ -7,6 +7,7 @@ menu = "main"
 title = "gorilla context doc"
 
 +++
+翻译 github.com/gorilla/context/doc.go
 
 包context存储的值在一个请求的声明周期中是共享的。
 

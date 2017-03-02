@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2017-02-23T17:26:24+08:00"
 menu = "main"
-title = "gorilla context doc"
+title = "Golang gorilla context doc"
 
 +++
 翻译 github.com/gorilla/context/doc.go

@@ -9,7 +9,7 @@ title = "Golang iotuils devnull deserve deep thinking"
 +++
 
 
-[!ioutils源码地址](https://golang.org/src/io/ioutil/ioutil.go)
+[ioutils源码地址](https://golang.org/src/io/ioutil/ioutil.go)
 
 ```
 type devNull int

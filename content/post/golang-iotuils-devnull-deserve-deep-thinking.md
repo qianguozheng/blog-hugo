@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2018-05-18T14:41:06+08:00"
 menu = "main"
-title = "golang iotuils devnull deserve deep thinking"
+title = "Golang iotuils devnull deserve deep thinking"
 
 +++
 

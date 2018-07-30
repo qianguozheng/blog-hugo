@@ -32,10 +32,12 @@ recoveredAddr := crypto.PubkeyToAddress(*pubKey)   #common.Address格式的地�
 * 2.1由此可见， 可以通过利用私钥签名，来推断出私钥对应的公钥，进而推断出地址。
 
 * 2.2 如下方式，也可以获取到公钥和地址
+
 ```
 recoveredPub2,  _:= crypto.SigToPub(msg, sig)
 
 recoveredAddr2 := crypto.PubkeyToAddress(*recoveredPub2)
 ```
-** Ecrecover 和 SigToPub都可以获得公钥！！ **
+
+*Ecrecover 和 SigToPub都可以获得公钥！！*
 
